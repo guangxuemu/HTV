@@ -1,3 +1,6 @@
+ 
+name: Build and Release APK
+
 on:
   push:
     tags:
